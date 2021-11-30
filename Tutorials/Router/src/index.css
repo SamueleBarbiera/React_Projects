@@ -1,0 +1,20 @@
+body {
+    width: 100%;
+    height: 100%;
+}
+
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: "Courier New", Courier, monospace;
+}
+
+/*
+font-size: rem
+width: % in combination with a max-width, ch
+height: use a min-height if u have to
+padding/margin: rem or em, 
+media queries: em
+px: only for little things like shadows, borders etc.
+*/
