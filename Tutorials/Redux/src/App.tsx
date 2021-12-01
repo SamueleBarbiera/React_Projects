@@ -1,11 +1,14 @@
-import './App.css'
+import {Counter} from "./counter/Counter";
+import "./index.css";
 
 function App() {
-  return (
-    <div>
-      home
-    </div>
-  ) 
+    return (
+        <div className="App">
+            <header className="App-header">
+                <Counter />
+            </header>
+        </div>
+    );
 }
 
-export default App
+export default App;
