@@ -3,7 +3,7 @@
 </p>
 
 # Quick starting point 🔮
-## These are my projects using React,ts,Redux,MERN Stack ecc...
+## These are my projects using React,ts,TailwindCSS ecc...
 
 
 # My Socials 🤳

@@ -5,11 +5,33 @@
 
 html,
 body {
-    padding: 0;
-    margin: 0;
     font-family: "Poppins", sans-serif;
 }
+input:checked ~ .dot {
+    transform: translateX(100%);
+    @apply bg-indigo-200;
+}
+.container {
+    overflow: scroll;
+    overflow-x: hidden;
+    scrollbar-width: thin;
+    margin-right: 2px;
+}
+#demo1::-webkit-scrollbar {
+    width: 5px;
+}
 
-* {
-    box-sizing: border-box;
+#demo1::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px transparent;
+    border-radius: 0px;
+    margin: 5px;
+}
+
+#demo1::-webkit-scrollbar-thumb {
+    @apply bg-indigo-500;
+    border-radius: 10px;
+}
+
+.focus {
+    @apply duration-300 transition ease-in-out border-indigo-400 focus:border-indigo-500;
 }

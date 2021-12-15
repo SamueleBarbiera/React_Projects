@@ -3,13 +3,14 @@ module.exports = {
         "./pages/**/*.{js,ts,jsx,tsx}",
         "./components/**/*.{js,ts,jsx,tsx}",
     ],
-    media: false, 
+    media: false,
     theme: {
         screens: {
             xsm: "250px",
             sm: "480px",
             md: "768px",
             lg: "976px",
+            sxl: "1240px",
             xl: "1440px",
         },
         extend: {
@@ -29,6 +30,9 @@ module.exports = {
             borderRadius: {
                 "4xl": "2rem",
             },
+            boxShadow: {
+              '4xl': '0 15px 30px 0px rgba(0, 0, 0, 0.3)',
+            }
         },
     },
     variants: {

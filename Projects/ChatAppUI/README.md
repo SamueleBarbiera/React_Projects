@@ -1,34 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Preview 🔮
 
-## Getting Started
+<p align="center">
+<a><img src="./pages/Home.PNG"/></a>
+</p></br>
+<p align="center">
+<a><img src="./pages/responsive.PNG"/></a>
+</p>
 
-First, run the development server:
+## My Socials 🤳
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<p align="left">
+<a href="https://twitter.com/sambeatzs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sambeatzs" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samuele-antonio-barbiera-bb023320b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuele antonio barbiera" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16105959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="samuelebarbiera" height="30" width="40" /></a>
+<a href="https://instagram.com/samuelebarbiera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuelebarbiera" height="30" width="40" /></a>
+<a href="https://discord.gg/2Wj7hmP6Nf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samuele#6396" height="30" width="40" /></a>
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Donations 💸
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="left">
+  <a href="buymeacoffee.com/?via=samueleb" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+  </a>
+</p>
