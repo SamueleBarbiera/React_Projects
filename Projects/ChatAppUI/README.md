@@ -1,10 +1,10 @@
 # Preview 🔮
 
 <p align="center">
-<a><img src="./pages/Home.PNG"/></a>
+<a><img src="./public/Home.PNG"/></a>
 </p></br>
 <p align="center">
-<a><img src="./pages/responsive.PNG"/></a>
+<a><img src="./public/responsive.PNG"/></a>
 </p>
 
 ## My Socials 🤳
