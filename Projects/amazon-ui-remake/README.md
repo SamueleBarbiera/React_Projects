@@ -3,9 +3,9 @@
 <p align="center">
 <a><img src="./Home.PNG"/></a>
 </p></br>
-<p align="center">
-<a><img src="./TableUI.PNG"/></a>
-<p align="center">
+<p align="left">
+<a><img src="./TableUI.PNG" width="500" height="auto"/></a>
+<p align="right">
 <a><img src="./Mobile.PNG"/></a>
 </p>
 
