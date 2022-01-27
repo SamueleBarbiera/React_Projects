@@ -1,13 +1,12 @@
 # Preview 🔮
 
 <p align="center">
-<a><img src="./Home.PNG"/></a>
-</p></br>
-<div class="width:100%;">
-<img src="./TableUI.PNG" class="float:left; padding:10px;" width="500" height="auto"/>
-<img src="./Mobile.PNG" class="float:left; padding:10px;" width="400" height="auto"/>
-</div>
-
+  <img src="./Home.PNG"/></br>
+  <div class="width:100%;">
+    <img src="./TableUI.PNG" class="float:left; padding:10px;" width="500" height="auto"/>
+    <img src="./Mobile.PNG" class="float:left; padding:10px;" width="400" height="auto"/>
+  </div>
+</p>
 ## My Socials 🤳
 
 <p align="left">
