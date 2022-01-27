@@ -3,11 +3,10 @@
 <p align="center">
 <a><img src="./Home.PNG"/></a>
 </p></br>
-<p align="left">
-<a><img src="./TableUI.PNG" width="500" height="auto"/></a>
-<p align="right">
-<a><img src="./Mobile.PNG" width="400" height="auto"/></a>
-</p>
+<div class="width:100%;">
+<img src="./TableUI.PNG" class="float:left; padding:10px;" width="500" height="auto"/>
+<img src="./Mobile.PNG" class="float:left; padding:10px;" width="400" height="auto"/>
+</div>
 
 ## My Socials 🤳
 
