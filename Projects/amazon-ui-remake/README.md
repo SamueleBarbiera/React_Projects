@@ -6,7 +6,7 @@
 <p align="left">
 <a><img src="./TableUI.PNG" width="500" height="auto"/></a>
 <p align="right">
-<a><img src="./Mobile.PNG"/></a>
+<a><img src="./Mobile.PNG" width="400" height="auto"/></a>
 </p>
 
 ## My Socials 🤳
