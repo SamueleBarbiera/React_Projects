@@ -8,4 +8,7 @@ redux
 remix-es
 tailwindcss
 PAPA_REACT_Repos
-enigma
+jamstack-ecommerce/
+./jamstack-ecommerce/
+jamstack-ecommerce/**
+jamstack-ecommerce/backend/public/uploads/.gitkeep
